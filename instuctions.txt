@@ -1,0 +1,15 @@
+Objective
+  Demonstrate the basic understandings of CRUD
+  in a simple PHP application.
+
+Instructions:
+  1) Fix the application so you can create a person
+    - create.php
+    - insert.php
+  2) Fix the application so you can view all the people
+    - index.php
+  3) Fix the application so you can update a person
+    - edit.php
+    - update.php
+  4) Fix the application so you can delete a person
+    - delete.php
